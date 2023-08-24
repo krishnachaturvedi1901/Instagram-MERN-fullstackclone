@@ -14,6 +14,7 @@ I implemented all possible optimization practices, responsiveness, and near-to-p
   - Multi-story upload feature and seen by followers only if private account.
   - Notification of like/comments/tags/messages.
   - Chat with followers.
+  - Show feed skeleton while loading like the actual application.
 
 - For this Insta clone I have used the following main tech stack-
   - Reactjs
