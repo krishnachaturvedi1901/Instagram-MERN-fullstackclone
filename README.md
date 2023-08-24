@@ -4,13 +4,16 @@
 This is my single-handedly created full-stack clone which I tried to develop nearly a production level project.
 I implemented all possible optimization practices, responsiveness, and near-to-production-ready coding methodology.
 
-- I have targeted following features to implement and learning-
+- I have targeted the following features to implement and learn-
   - Infinite scrolling of feeds.
   - CRUD- operation for like/comment/save posts.
-  - Multi-user accessibilty of application.
+  - Multi-user accessibility of application.
   - Oauth implementation for authentication.
   - Following and follower feature.
-
+  - Open and private account features.
+  - Multi-story upload feature and seen by followers only if private account.
+  - Notification of like/comments/tags/messages.
+  - Chat with followers.
 
 - For this Insta clone I have used the following main tech stack-
   - Reactjs
