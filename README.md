@@ -2,7 +2,15 @@
 # MERN-based Instagram full-stack clone 
 
 This is my single-handedly created full-stack clone which I tried to develop nearly a production level project.
-I implemented all possible optimization practices, responsiveness, and near-to-production-ready coding methdology.
+I implemented all possible optimization practices, responsiveness, and near-to-production-ready coding methodology.
+
+- I have targeted following features to implement and learning-
+  - Infinite scrolling of feeds.
+  - CRUD- operation for like/comment/save posts.
+  - Multi-user accessibilty of application.
+  - Oauth implementation for authentication.
+  - Following and follower feature.
+
 
 - For this Insta clone I have used the following main tech stack-
   - Reactjs
