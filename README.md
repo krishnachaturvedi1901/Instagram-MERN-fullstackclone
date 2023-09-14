@@ -17,11 +17,13 @@ I implemented all possible optimization practices, responsiveness, and near-to-p
   - Show feed skeleton while loading like the actual application.
 
 - For this Insta clone I have used the following main tech stack-
-  - Reactjs
+  - Nextjs + Reactjs +Typescript
   - Tailwindcss
   - Nodejs
   - Express
   - MongoDB
+  - WebSockets
+  - Eslint+Prettier+Husky
  
 - I have used the following dependent libraries-
   - Redux-toolkit
@@ -31,7 +33,7 @@ I implemented all possible optimization practices, responsiveness, and near-to-p
   - Facebook OAuth
   - Google Oauth
   - Jwt
-  - Winston
+  - Winston (for logging)
  
 - I have used the following for optimization-
   - Cloudflare CDN for static files.
